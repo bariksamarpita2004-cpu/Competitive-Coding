@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
