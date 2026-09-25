@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bariksamarpita2004-cpu/Competitive-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
